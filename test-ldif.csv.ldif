@@ -1,0 +1,36 @@
+dn: cn=joignacio,ou=direccio,dc=mad-logistics,dc=asx
+changetype: add
+objectClass: organizationalPerson
+ou: direccio
+cn: joignacio
+cn: Jose
+sn: Ignacio
+userPassword: joi_4842
+
+dn: cn=maisabel,ou=direccio,dc=mad-logistics,dc=asx
+changetype: add
+objectClass: organizationalPerson
+ou: direccio
+cn: maisabel
+cn: Maria
+sn: Isabel
+userPassword: mai_1788
+
+dn: cn=jocamacho,ou=direccio,dc=mad-logistics,dc=asx
+changetype: add
+objectClass: organizationalPerson
+ou: direccio
+cn: jocamacho
+cn: Joseba
+sn: Camacho
+userPassword: joc_8460
+
+dn: cn=agfont,ou=direccio,dc=mad-logistics,dc=asx
+changetype: add
+objectClass: organizationalPerson
+ou: direccio
+cn: agfont
+cn: Agustin
+sn: Font
+userPassword: agf_3578
+
